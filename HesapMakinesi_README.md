@@ -1,3 +1,4 @@
+* Döngü olarak yaparak sınırsız bir şekilde kullanıcı işlem kısmına exit yazana kadar program kendisini tekrarlamaktadır
 * İlk önce sayıların ne olduğunu bilmek için dışardan 2 sayı girişi istendi
 * Yapılabilecek işlemlerin ne olduğunu kullanıcıya gösterildi
 * Daha sonra yapılacak işlemin ne olduğunu string olarak dışardan istendi
