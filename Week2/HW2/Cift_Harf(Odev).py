@@ -1,4 +1,4 @@
-arr="Batuhan".lower()
+arr=input("Kelimeyi Giriniz = ").lower()
 d=[]
 for c in arr :
     varmi = False
